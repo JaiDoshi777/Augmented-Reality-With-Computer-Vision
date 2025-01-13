@@ -18,3 +18,16 @@ The results showcased varying degrees of alignment accuracy across different ima
 
 **Conclusion**
 The project successfully demonstrated the integration of augmented reality with computer vision, particularly in achieving perspective-aligned overlays. The team gained valuable insights into OpenCV's capabilities and the challenges associated with precise marker-based transformations. Future improvements could focus on enhancing marker detection accuracy and refining scaling operations to achieve consistently precise results across diverse scenarios.
+
+
+![image](https://github.com/user-attachments/assets/957242ed-b869-4be4-877b-237383dae4c1)
+![image](https://github.com/user-attachments/assets/21222817-7603-404c-a5ce-65a3a7552011)
+![image](https://github.com/user-attachments/assets/08cf1998-ac40-400e-8add-d2134f230f0c)
+![image](https://github.com/user-attachments/assets/2149d525-4d80-4212-825d-04b405c0ec51)
+![image](https://github.com/user-attachments/assets/1936d2b3-8518-44e6-a502-bf1bb50a9738)
+![image](https://github.com/user-attachments/assets/4d5d323c-92dc-44f9-81e6-b210088ca959)
+![image](https://github.com/user-attachments/assets/e7665aec-8160-448c-8f77-0390cd249719)
+![image](https://github.com/user-attachments/assets/6abaa031-64a9-46ee-aca0-5b8c8e522f83)
+![image](https://github.com/user-attachments/assets/d54a06d8-d8c8-4402-a8ba-294c7464e2dc)
+![image](https://github.com/user-attachments/assets/3e77cee7-338f-4c97-b0d5-3d76b705a0ed)
+
